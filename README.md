@@ -4,6 +4,8 @@ Developed a Diabetes testing model utilizing Machine Learning Algorithms, the Fl
 # Diabetes Prediction - Deployment
 ![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.10](https://img.shields.io/badge/Python-3.10-brightgreen.svg) ![scikit-learnn](https://img.shields.io/badge/Library-Scikit_Learn-orange.svg)
 
+Dataset Link: https://www.kaggle.com/datasets/mathchi/diabetes-data-set
+
 • This repository consists of files required to deploy a ___Machine Learning Web App___ created with ___Flask___ on ___Heroku___ platform.
 
 • If you want to view the deployed model, click on the following link:<br />
