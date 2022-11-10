@@ -14,6 +14,11 @@ Developed a Diabetes testing model utilizing Machine Learning Algorithms, the Fl
 
 ![web page](readme_resources/diabetes-web-app.png)
 
+### Histrogram ploting after removing NaN Values
+
+
+![GIF](readme_resources/histrogram.png)
+
 1. activate vertual environment
 ```
 source virtualenv/bin/activate
