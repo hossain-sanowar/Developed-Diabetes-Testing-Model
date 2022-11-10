@@ -26,9 +26,9 @@ source virtualenv/bin/activate
 2. install requirements.txt file
 ```
 3. run app.py for web application
+
 ```
 python app.py
 
 ```
-
 • Please do ⭐ the repository, if it helped you in anyway.
