@@ -24,3 +24,13 @@ _**----- Important Note -----**_<br />
 
 ![Heroku-Error](readme_resources/application-error-heroku.png)
 
+1. activate vertual environment
+```
+source virtualenv/bin/activate
+```
+2. install requirements.txt file
+```
+3. run app.py for web application
+```
+python app.py
+```
